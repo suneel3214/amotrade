@@ -1,0 +1,1 @@
+<h1 style="text-align: center;background: #00f;padding: 15px;color: #fff;border-radius: 5px;">Welcome Amotrade</h1>
